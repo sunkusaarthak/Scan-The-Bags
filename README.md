@@ -2,7 +2,7 @@
 
 ## Description:
 
-Student Shopping Guide is a web application designed to help college students find the best products and deals for their needs. The app features a range of products, including smartphones, laptops, backpacks, and more, all carefully selected with students in mind. Users can browse through the available options and see exciting student offers. The app is built using PHP, MySQL, HTML, CSS, and JavaScript.
+Scan the Bags is a web application designed to help college students find the best products and deals for their needs. The app features a range of products, including smartphones, laptops, backpacks, and more, all carefully selected with students in mind. Users can browse through the available options and see exciting student offers. The app is built using PHP, MySQL, HTML, CSS, and JavaScript.
 
 ## System requirements:
 
