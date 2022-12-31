@@ -1,0 +1,15 @@
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#mainNav {
+    background-color: var(--ref-gray-600);
+}
+
+#navcol-1 {
+    background-color: var(--ref-gray-600);
+}
