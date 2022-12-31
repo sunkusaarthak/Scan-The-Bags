@@ -42,13 +42,11 @@ For support or to report any issues, please contact Sunku Saarthak at sunkusaart
 
   <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/305/926/datas/original.png" width="400" />
   <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/305/927/datas/original.png" width="400" />
-  
+
   <br/>  
-  
+
   <img src="https://user-images.githubusercontent.com/59611699/208235196-a625a79e-89fa-4f9a-b8a3-3e81af0c0cdb.png" width="400"  />
   <img src="https://user-images.githubusercontent.com/59611699/208235422-231ec980-85cd-4d75-bd72-34c26ca08658.png" width="400"  />
 
 </p>
-
-
 
