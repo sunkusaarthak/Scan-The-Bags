@@ -1,0 +1,36 @@
+{
+  "extends": [
+    "development"
+  ],
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_chr <= 107",
+    "not chrome <= 108",
+    "not edge <= 107",
+    "not firefox <= 107",
+    "not safari <= 16.1",
+    "not samsung <= 19",
+    "not and_ff <= 106",
+    "not ios_saf <= 14.8",
+    "not ios_saf <= 16.1",
+    "not opera <= 92"
+  ],
+  "hints": {
+    "css-prefix-order": "off",
+    "no-inline-styles": "off",
+    "axe/keyboard": [
+      "default",
+      {
+        "nested-interactive": "off"
+      }
+    ],
+    "axe/name-role-value": [
+      "default",
+      {
+        "link-name": "off"
+      }
+    ],
+    "disown-opener": "off"
+  }
+}
